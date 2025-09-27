@@ -9,5 +9,6 @@ int main(){
 
     printf("0927");
     printf("0927-1");
+    printf("0927-1-dev\n");
     return 0;
 }
